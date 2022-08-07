@@ -1,6 +1,24 @@
 body {
-   background: #AABBBB;
+   background: #CCCCCC;
 }
 h1 {
    text-align: center;
+}
+
+h2{
+   text-align: left;
+}
+
+.menuPrincipal {
+   position:absolute;
+   width: 103%;
+   height: 80px;
+   background-color: blueviolet;
+   top: 0%;
+   right: 0%;
+}
+
+.Binomo {
+   color: darkorange;
+
 }
