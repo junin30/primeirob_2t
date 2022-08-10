@@ -12,7 +12,7 @@ h2{
 .menuPrincipal {
    position:absolute;
    width: 103%;
-   height: 80px;
+   height: 63px;
    background-color: blueviolet;
    top: 0%;
    right: 0%;
@@ -21,4 +21,30 @@ h2{
 .Binomo {
    color: darkorange;
 
+}
+
+
+li{
+   float: left;
+}
+ a{
+   display: block;
+   color: rgb(18, 250, 200);
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-family:Arial, Helvetica, sans-serif ;
+}
+
+.square1 {
+   color: blue;
+ 
+   width: 20px;
+   height: 20px;
+   top: 0%;
+}
+
+li a:hover{
+   background: rgb(205, 50, 197);
+   font-family: cursive;
 }
