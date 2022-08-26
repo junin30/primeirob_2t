@@ -1,8 +1,9 @@
 body{
-  background: rgb(143, 130, 202);
+  background: rgb(222,222,222);
 }
 h1{
-  text-align: center;
+padding-left: 720px;
+  padding-top: 50px;
 }
 
 
@@ -27,11 +28,13 @@ li {
 }
 li a {
    display: block;
-   color: rgb(0,128,0);
+   color: rgb(255,255,255);
    text-align: center;
    padding: 14px 16px;
    text-decoration: none;
    font-family: "Goudy Bookletter 1911", sans-serif;
+   font-size: large;
+
 
 }
 li a:hover {
@@ -47,7 +50,9 @@ li a:hover {
 
 .videobacate{
   padding-left: 61%;
-  padding-top: 23%;
+  padding-top: 15%;
+  background-color: #054F77;
+
 }
 
 .txtbacate{
@@ -94,3 +99,14 @@ li a:hover {
      padding: 10px;
      text-align: right;
   }
+.txtlaranja{
+    background: rgb(255,165,0);
+    position: absolute;
+    left: 599px;
+    top: 20%;
+    font-family: cursive;
+    color: white;
+    background: (143, 130, 242);
+
+
+}
