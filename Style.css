@@ -1,5 +1,5 @@
 body{
-    background: rgb(222,222,222);
+    background-color: #054F77;
     overflow-y: hidden;
     overflow-x: hidden;
   }
@@ -29,7 +29,7 @@ body{
   }
   li a {
      display: block;
-     color: rgb(0,128,0);
+     color: rgb(255,255,255);
      text-align: center;
      padding: 14px 16px;
      text-decoration: none;

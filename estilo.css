@@ -1,5 +1,5 @@
 body{
-  background: rgb(222,222,222);
+  background: #054F77;
 }
 h1{
 padding-left: 720px;
@@ -66,12 +66,14 @@ li a:hover {
 
 .laranja{
   width: 250px;
-  height: 250px
+  height: 250px;
+    background-color: #054F77;
 }
 
 .videolaranja{
   padding-left: 61%;
   padding-top: 6%;
+    background-color: #054F77;
 }
 
   .banana {
@@ -100,13 +102,12 @@ li a:hover {
      text-align: right;
   }
 .txtlaranja{
-    background: rgb(255,165,0);
+
     position: absolute;
     left: 599px;
-    top: 20%;
+    top: 10%;
     font-family: cursive;
     color: white;
-    background: (143, 130, 242);
 
 
 }
